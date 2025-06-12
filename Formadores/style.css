@@ -1,0 +1,18 @@
+body{
+    background-color: #B2D8CE;
+    color: #5459AC;
+}
+
+h2{
+    color: #52357B;
+}
+
+.texto_html{
+    color: #648DB3;
+    font-size: 30px;
+}
+
+#nome_cursista{
+    font-weight: bold;
+    color: #F97A00;
+}
